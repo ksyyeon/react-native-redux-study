@@ -1,5 +1,5 @@
 # react-native-redux-study
-## Prereauisite
+## Prerequisite
 `redux`<br/>
 `react-redux`<br/>
 `@reduxjs/toolkit`<br/>
